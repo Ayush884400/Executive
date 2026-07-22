@@ -31,8 +31,9 @@ The dashboard combines clear visual design with business storytelling, presentin
   <a href="https://app.powerbi.com/" target="_blank">
     View Power BI Dashboard
   </a>
-  <a href="">Download Project</a>
 </p>
+
+<a href="">Download Project</a>
 
 <h2>🛠️ Tools Used</h2>
 
