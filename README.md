@@ -1,7 +1,7 @@
 <h1 align="center">🍫 Executive Dashboard</h1>
 
 <p align="center">
-  An interactive Power BI dashboard analysing chocolate sales performance, customer trends, and product insights.
+  An interactive Power BI dashboard analysing bussiness performance, customer trends, and product insights.
 </p>
 
 <br>
@@ -15,7 +15,7 @@
 <h2>📊 Project Description</h2>
 
 <p>
-## Sales Performance Dashboard
+Sales Performance Dashboard
 
 This Power BI Sales Performance Dashboard was designed to provide business stakeholders with a clear and interactive overview of sales performance through a series of focused report pages. The dashboard transforms raw sales data into meaningful insights, enabling users to monitor key performance indicators, identify trends, and make data-driven decisions.
 
@@ -31,6 +31,7 @@ The dashboard combines clear visual design with business storytelling, presentin
   <a href="https://app.powerbi.com/" target="_blank">
     View Power BI Dashboard
   </a>
+  <a href="">Download Project</a>
 </p>
 
 <h2>🛠️ Tools Used</h2>
