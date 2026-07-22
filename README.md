@@ -15,9 +15,14 @@
 <h2>📊 Project Description</h2>
 
 <p>
-This dashboard was created using Power BI to explore chocolate sales data and provide insights into revenue, sales trends, product performance, and customer behaviour.
+## Sales Performance Dashboard
 
-The project demonstrates data cleaning, data modelling, DAX calculations, and interactive visualisation techniques to transform raw sales data into meaningful business insights.
+This Power BI Sales Performance Dashboard was designed to provide business stakeholders with a clear and interactive overview of sales performance through a series of focused report pages. The dashboard transforms raw sales data into meaningful insights, enabling users to monitor key performance indicators, identify trends, and make data-driven decisions.
+
+The project demonstrates the complete Power BI development process, including data cleaning and transformation using **Power Query**, building an efficient **star schema data model**, creating relationships between tables, and developing **DAX measures** for KPIs such as Total Sales, Profit, Year-to-Date Sales, Growth, Average Order Value, and Customer Rankings. These calculations provide accurate and dynamic metrics that update automatically based on user selections.
+
+The dashboard combines clear visual design with business storytelling, presenting information through charts, KPI cards, maps, and trend analyses that highlight the most important insights at a glance. By focusing on usability and performance, the dashboard enables decision-makers to quickly understand overall business health, identify opportunities for growth, and support strategic planning.
+
 </p>
 
 <h2>🔗 View Dashboard</h2>
