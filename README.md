@@ -1,4 +1,3 @@
-# Executive
 <h1 align="center">🍫 Executive Dashboard</h1>
 
 <p align="center">
