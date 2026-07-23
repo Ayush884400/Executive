@@ -28,7 +28,7 @@ The dashboard combines clear visual design with business storytelling, presentin
 <h2>🔗 View Dashboard</h2>
 
 <p>
-  <a href="https://app.powerbi.com/" target="_blank">
+  <a href="https://app.powerbi.com/links/pT7j4yNqXW?ctid=1e341d11-1ce0-4d09-a2a5-22aeaa3eea2a&pbi_source=linkShare" target="_blank">
     View Power BI Dashboard
   </a>
 </p>
