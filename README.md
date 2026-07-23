@@ -25,7 +25,7 @@ The dashboard combines clear visual design with business storytelling, presentin
 
 </p>
 
- <img src="Screenshot 2026-07-22 172803.png" alt="Chocolate Dashboard Preview" width="800">
+ <img src="Screenshot 2026-07-23 171030.png" alt="Chocolate Dashboard Preview" width="800">
 
 <h2>🔗 View Dashboard</h2>
 
