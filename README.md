@@ -29,6 +29,8 @@ The dashboard combines clear visual design with business storytelling, presentin
 
  <h2>⚙️Dax</h2>
  
+  <img src="Screenshot 2026-08-12 165720.png" alt="Chocolate Dashboard Preview" width="800">
+  
  <p>
    I incorporated DAX functions into my project to enhance the analysis and provide a wider range of business metrics. For example, I calculated total revenue using the `CALCULATE` function, filtered online revenue, and determined the average order value using the `DIVIDE` function. I also created calculated columns using `IF` statements to classify orders as either Small or Large based on their size.
 
@@ -36,6 +38,8 @@ In addition, I used DAX to rank customers according to the revenue they generate
 </p>
 
 <h2>🧮Data Modeling</h2>
+
+ <img src="Screenshot 2026-08-12 165740.png" alt="Chocolate Dashboard Preview" width="800">
 
 <p>
   I used the star scheme to model the data in this dashboard, the reason for this was because all other tables had a 1 to many ralation from the sales table. For example customer could have manay sales, as well as products and employees, therefore I had created these relations in order to make Dax commands possible and therefore increase the analysis. 
